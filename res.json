@@ -1,0 +1,170 @@
+[
+    {
+        "categories": "mobile",
+        "name": "teXet TM-519R черный-красный Мобильный телефон",
+        "article": "80397881",
+        "description": {
+            "brand": "Texet",
+            "model": "TM-519R",
+            "type": "Мобильный телефон",
+            "material": "пластик",
+            "type_display": "Цветной",
+            "diagonal": "2.4",
+            "size": "131,6x61,9x19 мм",
+            "weight": "г 90.54",
+            "resolution": "240x320",
+            "site": "www.texet.ru"
+        },
+        "count": "31",
+        "price": "2490 руб",
+        "old_price": "2520 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_1.html"
+    },
+    {
+        "categories": "mobile",
+        "name": "Мобильный телефон Fly Ezzy 3 белый",
+        "article": "8579276",
+        "description": {
+            "brand": "Fly",
+            "model": "Ezzy 3",
+            "type": "Мобильный телефон",
+            "material": "пластик",
+            "type_display": "Цветной TFT",
+            "diagonal": "1.77",
+            "size": "55.5x118.2x14.7 м",
+            "weight": "г 95.54",
+            "resolution": "128x160",
+            "site": "www.fly-phone.ru"
+        },
+        "count": "20",
+        "price": "1070 руб",
+        "old_price": "1080 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_2.html"
+    },
+    {
+        "categories": "mobile",
+        "name": "Телефон Nokia 150 DS TA-1235 (2020) Cyan",
+        "article": "80548138",
+        "description": {
+            "brand": "NOKIA",
+            "model": "Ezzy 3",
+            "type": "телефон",
+            "material": "поликарбонат",
+            "type_display": "Цветной",
+            "diagonal": "2.4",
+            "size": "50.5x132x15 мм",
+            "weight": "г 90.54",
+            "resolution": "-",
+            "site": "www.fly-phone.ru"
+        },
+        "count": "17",
+        "price": "3130 руб",
+        "old_price": "3160 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_3.html"
+    },
+    {
+        "categories": "mobile",
+        "name": "Мобильный телефон BQ 2430 Tank Power серебристый камуфляж",
+        "article": "80350335",
+        "description": {
+            "brand": "BQ",
+            "model": "2430 Tank Power",
+            "type": "Мобильный телефон",
+            "material": "пластик",
+            "type_display": "Цветной",
+            "diagonal": "2.4",
+            "size": "50.5x132x15 мм",
+            "weight": "г 90.54",
+            "resolution": "240x320",
+            "site": "www.bq.ru"
+        },
+        "count": "7",
+        "price": "1920 руб",
+        "old_price": "1940 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_4.html"
+    },
+    {
+        "categories": "mobile",
+        "name": "Мобильный телефон NOKIA 130 Dual Sim 2017 черный (A00028615)",
+        "article": "8694521",
+        "description": {
+            "brand": "NOKIA",
+            "model": "130 Dual Sim 2017",
+            "type": "Мобильный телефон",
+            "material": "пластик",
+            "type_display": "Цветной",
+            "diagonal": "1.8",
+            "size": "48.4x111.5x14.2 мм",
+            "weight": "г 89.54",
+            "resolution": "128x160",
+            "site": "www.nokia.com"
+        },
+        "count": "37",
+        "price": "1550 руб",
+        "old_price": "1820 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_5.html"
+    },
+    {
+        "categories": "mobile",
+        "name": "Мобильный телефон Texet TM-B217 черный красный",
+        "article": "80040225",
+        "description": {
+            "brand": "Texet",
+            "model": "TM-B217",
+            "type": "Мобильный телефон",
+            "material": "пластик",
+            "type_display": "Цветной TFT",
+            "diagonal": "1.77",
+            "size": "48.4x111.5x14.2 мм",
+            "weight": "г 84",
+            "resolution": "128x160",
+            "site": "www.texet.ru"
+        },
+        "count": "5",
+        "price": "1830 руб",
+        "old_price": "1870 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_6.html"
+    },
+    {
+        "categories": "mobile",
+        "name": "NOKIA TA-1253",
+        "article": "80548137",
+        "description": {
+            "brand": "NOKIA",
+            "model": "TA-1253",
+            "type": "Мобильный телефон",
+            "material": "пластик",
+            "type_display": "Цветной TFT",
+            "diagonal": "1.77",
+            "size": "132 x 50.5 x 15 мм",
+            "weight": "г 96.5",
+            "resolution": "240x320",
+            "site": "www.nokia.com"
+        },
+        "count": "15",
+        "price": "2020 руб",
+        "old_price": "2220 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_7.html"
+    },
+    {
+        "categories": "mobile",
+        "name": "Мобильный телефон Texet 130-TM черный красный",
+        "article": "80412207",
+        "description": {
+            "brand": "Texet",
+            "model": "130-TM",
+            "type": "Мобильный телефон",
+            "material": "пластик",
+            "type_display": "Цветной",
+            "diagonal": "1.77",
+            "size": "132 x 50.5 x 15 мм",
+            "weight": "г 64.5",
+            "resolution": "128x160",
+            "site": "www.texet.ru"
+        },
+        "count": "60",
+        "price": "1160 руб",
+        "old_price": "1460 руб",
+        "link": "https://parsinger.ru/html/mobile/2/2_8.html"
+    }
+]
